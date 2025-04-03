@@ -18,6 +18,10 @@ public class A {
 	public void testA3() {
 		System.out.println("Test A3");
 	}
+	@Test
+	public void testA4() {
+		System.out.println("Test A4");
+	}
 	
 
 }
